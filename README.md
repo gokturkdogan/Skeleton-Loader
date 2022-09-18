@@ -1,3 +1,3 @@
 # Skeleton-Loader
 
-![Alt text](screenShots/screenShot.png?raw=true)
+![Alt text](screenShots/Screen.png?raw=true)
